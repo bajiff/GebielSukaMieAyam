@@ -41,7 +41,8 @@ namaOrangSukaBelajar.unshift("totok");
 namaOrangSukaBelajar.unshift("hibayu herena bunga can bunge he arta budung kue harga")
 console.log(namaOrangSukaBelajar);
 
-namaOrangSukaBelajar.pop()
-  namaOrangSukaBelajar.shift()
+namaOrangSukaBelajar.pop();
+namaOrangSukaBelajar.shift();
  
-  console.log(namaOrangSukaBelajar )
+console.log(namaOrangSukaBelajar);
+
